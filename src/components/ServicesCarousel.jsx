@@ -44,7 +44,7 @@ function ServicesCarousel() {
         <img
           src={currentService.image}
           alt={currentService.title}
-          className="w-full h-auto max-w-xs rounded-lg object-cover ml-8"
+          className="w-full h-auto max-w-xs rounded-lg object-cover ml-5"
         />
         <div className="flex flex-col flex-grow text-center lg:text-left">
           <p className="font-semibold text-sm md:text-base lg:text-lg">
